@@ -30,7 +30,7 @@ Below is the confirmation of the live service and the successful CI/CD pipeline.
 
 ### Azure Portal Status
 <p align="center">
-  <img src="azure_portal_web_app_running.png" width="600" title="Azure Status">
+  <img src="Azure_portal_web_app_running.png" width="600" title="Azure Status">
 </p>
 
 ### GitHub Actions Pipeline
@@ -38,13 +38,8 @@ Below is the confirmation of the live service and the successful CI/CD pipeline.
   <img src="Github_actions.png" width="600" title="GitHub Actions Success">
 </p>
 
-### Azure Portal Status
-<p align="center">
-  <img src="azure_portal_web_app_running.png" width="600" title="Azure Status">
-</p>
-
 ### Web URL Azure app running
 <p align="center">
-  <img src="feedback_analyzer_app_web_URL.png.png" width="600" title="GitHub Actions Success">
+  <img src="feedback_analyzer_app_web_URL.png" width="600" title="GitHub Actions Success">
 </p>
 
