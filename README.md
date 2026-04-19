@@ -25,3 +25,26 @@ The workflow is fully automated:
 3. **Environment variable configuration for future API keys.**
 4 .**Upcoming: Sentiment Analysis logic and NLP integration.**
 
+## Deployment Proof
+Below is the confirmation of the live service and the successful CI/CD pipeline.
+
+### Azure Portal Status
+<p align="center">
+  <img src="azure_portal_web_app_running.png" width="600" title="Azure Status">
+</p>
+
+### GitHub Actions Pipeline
+<p align="center">
+  <img src="Github_actions.png" width="600" title="GitHub Actions Success">
+</p>
+
+### Azure Portal Status
+<p align="center">
+  <img src="azure_portal_web_app_running.png" width="600" title="Azure Status">
+</p>
+
+### Web URL Azure app running
+<p align="center">
+  <img src="feedback_analyzer_app_web_URL.png.png" width="600" title="GitHub Actions Success">
+</p>
+
