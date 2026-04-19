@@ -1,5 +1,5 @@
 # Project: FastAPI Azure Foundation
-> **Status:** Infrastructure & Deployment Phase Complete ✅
+> **Status:** Infrastructure & Deployment Phase Complete 
 
 ## Objective
 The primary goal of this project was to establish a **production-ready cloud environment** for a Python API. 
