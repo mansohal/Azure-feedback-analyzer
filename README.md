@@ -20,8 +20,8 @@ The workflow is fully automated:
 
 
 ## Current Implementation
-**API routing and health endpoints.**
-**Automated Documentation (Swagger UI/ReDoc).**
-**Environment variable configuration for future API keys.**
-**Upcoming: Sentiment Analysis logic and NLP integration.**
+1. **API routing and health endpoints.**
+2. **Automated Documentation (Swagger UI/ReDoc).**
+3. **Environment variable configuration for future API keys.**
+4 .**Upcoming: Sentiment Analysis logic and NLP integration.**
 
